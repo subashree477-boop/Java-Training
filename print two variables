@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+class Solution {
+    public static void main(String args[]) {
+        int a;
+        String b;
+        Scanner sc = new Scanner(System.in);
+
+         a = sc.nextInt();
+         b = sc.next();
+
+        System.out.println(a);
+        System.out.println(b);
+        
+    }
+}
